@@ -1,0 +1,20 @@
+ems 
+ They’re nice for padding, margins, and element sizing, but when it comes to font size,
+ they can get complicated. Thankfully, there is a better option—rems.
+
+  My default is to use rems for font sizes, pixels for borders, and ems for most other mea
+sures, especially paddings, margins, and border radius (though I favor the use of per
+centages for container widths when necessary).
+ This way, font sizes are predictable, but you’ll still get the power of ems scaling
+ your padding and margins, should other factors alter the font size of an element. Pix
+els make sense for borders, particularly when you want a nice fine line. These are my
+ go-to units for the various properties, but again, they’re tools, and in some circum
+stances, a different tool does the job better.
+ TIP When in doubt, use rems for font size, pixels for borders, and ems for most other
+ properties
+
+ media query—An @media rule used to specify styles that will be applied only to
+ certain screen sizes or media types (for example, print or screen). This is a
+ key component of responsive design
+
+ +234 707 120 5570
